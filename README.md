@@ -1,5 +1,5 @@
 # stone-paper-scissors
-The classic game of stone, paper and scissors. The mechanics of the game is based on JavaScript. Font Awesome and Twitter Bootstrap were used to build the interface.  Translated with www.DeepL.com/Translator
+The classic game of stone, paper and scissors. The mechanics of the game is based on JavaScript. Font Awesome and Twitter Bootstrap were used to build the interface.
 
 # Game goals:
 
